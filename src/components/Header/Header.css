@@ -1,17 +1,4 @@
-.header{
-    height: 80px;
-    background-color: #1C2B35;
-    display:flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-left: 100px;
-    padding-right: 100px; 
-}
-nav.header a{
-    color: #FFFF;
-    margin-left: 30px;
-}
-nav.header a:hover{
-    color:orange
-
+nav a{
+    margin-right: 15px;
+    font-size: 20px;
 }
